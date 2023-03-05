@@ -5,10 +5,10 @@ Each cluster has a centroid and the algorithm update each centroid based on loss
 
 
 ## Table of contant
-- [Centroid set] (https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#centroid-set) <br/>
-- [Kmeans function] (https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-function) <br/>
-- [Set hyperparameter (K)] (https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
-- [Kmeans execution] (https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
+- [Centroid set](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#centroid-set) <br/>
+- [Kmeans function](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-function) <br/>
+- [Set hyperparameter (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
+- [Kmeans execution](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
 
 ## Centroid set
 
