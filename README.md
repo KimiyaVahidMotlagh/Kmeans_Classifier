@@ -5,4 +5,7 @@ Each cluster has a centroid and the algorithm update each centroid based on loss
 
 
 ## Table of contant
-
+- Centroid set <br/>
+- Kmeans function <br/>
+- Set hyperparameter (K) <br/>
+- Kmeans execution <br/>
