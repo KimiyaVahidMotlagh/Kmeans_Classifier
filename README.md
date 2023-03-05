@@ -9,3 +9,11 @@ Each cluster has a centroid and the algorithm update each centroid based on loss
 - Kmeans function <br/>
 - Set hyperparameter (K) <br/>
 - Kmeans execution <br/>
+
+## Centroid set
+
+## Kmeans function
+
+## Set hyperparameter
+
+## Kmeans execution
