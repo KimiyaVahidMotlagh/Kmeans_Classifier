@@ -21,7 +21,14 @@ Centroids are imaginary points that indicate the classes. The first time we coul
 
 are the minor functions 
 ## Kmeans functions
+- plot function <br/>
+This plotter shows the centroids and every cluster separate and with a different color. 
+- Kmeans <br/>
+This function is the main function. You can set K as the number of centroids, a centroid history and dataframe as input.
+
 
 ## Hyperparameter tuning
+Kmeans loss is determined by how much distance there is. For tuning K as the number of centroids for a dataset, we can plot a 2D diagram of 3 to n centroids and check which one is more convenient for us. This dataframe is simple, so we only checked up to 10 centroids. The diagram showed 7 was a good choice.
 
 ## Kmeans execution
+The only thing left is executing the Kmeans function with seven centroids. A job all done :)
