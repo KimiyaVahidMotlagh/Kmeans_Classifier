@@ -1,18 +1,22 @@
 # Handwritten_Kmeans
 Kmeans is an unsupervised algorithm used for clustering data. This algorithm classifies data based on the average distance in a class.
 Each cluster has a centroid. The algorithm updates each centroid based on its corresponding classified data's average coordinates. The loop continues until we don't see that much of a shift in the centroids' position. <br/>
+
+## Table of content
+- [Project & Dataset Explanation]() <br/>
+- [Centroid Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Centroid-Functions) <br/>
+- [Main Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Main-Functions) <br/>
+- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
+- [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
+
+## Project & Dataset Explanation
 This project shows how the Kmeans algorithm works. We used a dataset with 500 points and their Two-dimensional coordinates. In the diagram below you can see the distribution:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/DataDarkmode.jpg">
  <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Data.jpg">
 </picture> <br/>
-
-## Table of content
-- [Centroid Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Centroid-Functions) <br/>
-- [Main Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Main-Functions) <br/>
-- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
-- [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
+The dataset is unsupervised, so we don't have any labels to train the Kmeans model. Because of that, we have centroids which we set the number of them and Kmeans algorithm classifies based on them.
 
 ## Centroid Functions
 Centroids are imaginary points that indicate the classes. The first time we could choose where the centroids would be by default, or choose a data point randomly between the data we already have. The points assigned to the centroid would set how much the centroids will shift their position in the diagram and we classify the dataset based on new centroids again. After some time and reputation, the shifts will be unnoticeable then we can say the centroids are set. <br/> 
