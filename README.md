@@ -3,6 +3,10 @@ Kmeans is an unsupervised algorithm, used for clustering data. This algorithm cl
 Each cluster has a centroid and the algorithm update each centroid based on it's corrisponding callacified data's average coordinates. Until we don't see that much of a shift in the centroids' position the classification continues. <br/>
 This project shows how Kmeans algorithm works. We used a dataset with 500 points and their Two-dimensional coordinates. In the diagram below you can see the destrebution:
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="">
+ <img alt="Shows an light background in light color mode and a dark background in dark color mode." src="">
+</picture> <br/>
 
 ## Table of contant
 - [Centroid Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Centroid-Functions) <br/>
