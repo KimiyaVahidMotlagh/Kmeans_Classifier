@@ -15,7 +15,7 @@ This project shows how Kmeans algorithm works. We used a dataset with 500 points
 - [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
 
 ## Centroid Functions
-Centroids are imaginary points that indicate the classes. The first time we could choose where the centroids would be by default, or choose a data point randomly between the data we already have. The points assigned to the centroid would set how much the centroids will shift their position in the diagram and we classify the dataset baced on new centroids again. After some time and repitation, the shifts will be unnoticeable then we can say the centroids are set. <br/> <br/>
+Centroids are imaginary points that indicate the classes. The first time we could choose where the centroids would be by default, or choose a data point randomly between the data we already have. The points assigned to the centroid would set how much the centroids will shift their position in the diagram and we classify the dataset baced on new centroids again. After some time and repitation, the shifts will be unnoticeable then we can say the centroids are set. <br/> 
 
 - distance_calculator: we need a Euclidean distance function for classifing the dataset. <br/>
 - centriods_changelog: saves the newly set centroids coordinates for the other functions to analyse. <br/>
