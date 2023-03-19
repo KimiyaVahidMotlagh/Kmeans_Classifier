@@ -27,10 +27,10 @@ Centroids are imaginary points that indicate the classes. The first time we coul
 
 are the minor functions 
 ## Main functions
-- plot function <br/>
-This plotter shows the centroids and every cluster separate and with a different color. 
-- Kmeans <br/>
-This function is the main function. You can set K as the number of centroids, a centroid history and dataframe as input.
+- plot_cluster<br/>
+This plotter function shows the centroids and their cluster. Centroids are red and the classes are in diffrent colors.
+- k_means_clustering<br/>
+This function uses the perviously mentioned functions and is the main function. You can set K as the number of centroids. you need a centroid history and the dataframe as input. After the clustering is done, the function will output the centriods coordinates and the classified dataframe.
 
 
 ## Hyperparameter Tuning (K)
