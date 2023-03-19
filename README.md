@@ -39,7 +39,7 @@ ur dataframe is simple, so we only checked up to 10 centroids.
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="">
- <img alt="Shows a light background in light color mode and dark background in dark color mode." src="">
+ <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Elbow.jpg">
 </picture> <br/>
 
 The diagram shows that 7 was a good choice.
