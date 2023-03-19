@@ -6,7 +6,7 @@ Each cluster has a centroid. The algorithm updates each centroid based on its co
 - [Project & Dataset Explanation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#project--dataset-explanation) <br/>
 - [Centroid Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#centroid-functions) <br/>
 - [Main Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#main-functions) <br/>
-- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
+- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#hyperparameter-tuning-k) <br/>
 - [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
 
 ## Project & Dataset Explanation
