@@ -38,7 +38,7 @@ Kmeans loss is determined by how much distance there is. For tuning K as the num
 ur dataframe is simple, so we only checked up to 10 centroids.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/ElbowDarkmode.jpg">
  <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Elbow.jpg">
 </picture> <br/>
 
