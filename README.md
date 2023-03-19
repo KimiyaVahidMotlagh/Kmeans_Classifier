@@ -7,7 +7,7 @@ Each cluster has a centroid. The algorithm updates each centroid based on its co
 - [Centroid Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#centroid-functions) <br/>
 - [Main Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#main-functions) <br/>
 - [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#hyperparameter-tuning-k) <br/>
-- [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
+- [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#train--evaluation) <br/>
 
 ## Project & Dataset Explanation
 This project shows how the Kmeans algorithm works. We used a dataset with 500 points and their Two-dimensional coordinates. In the diagram below you can see the distribution:
