@@ -5,7 +5,7 @@ This project shows how the Kmeans algorithm works. We used a dataset with 500 po
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="">
- <img alt="Shows a light background in light color mode and dark background in dark color mode." src="">
+ <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Data.jpg">
 </picture> <br/>
 
 ## Table of content
