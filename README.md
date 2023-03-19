@@ -1,17 +1,18 @@
 # Handwritten_Kmeans
 Kmeans is an unsupervised algorithm, used for clustering data. This algorithm classifies data based on the average distance in a class.
 Each cluster has a centroid and the algorithm update each centroid based on loss until we don't see that much of a shift in the centroids' position.
-This project shows how Kmeans algorithm works. We used 500 dataset 
+This project shows how Kmeans algorithm works. We used a dataset with 500 points 
 
 
 ## Table of contant
 - [Main Functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#Main-Functions) <br/>
 - [Kmeans functions](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-function) <br/>
-- [Hyperparameter tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
-- [Kmeans execution](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
+- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#set-hyperparameter) <br/>
+- [Train and Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#kmeans-execution) <br/>
 
 ## Main Functions
 Centroids are imaginary points that indicate the classes. The first time we could choose where the centroids would be by default, or choose a data point randomly between the data we already have. The points assigned to the centroid would set how much the centroids will shift their position in the diagram. After some changes, the shifts will be unnoticeable then we can say those centroids set. <br/> <br/>
+
 - centriods_changelog: resets the previosly saved centroids. <br/>
 - centriod_init: initialize a random data point in our dataframe as centroids. <br/>
 - assign_centriods: assign the nearest centroid to each data point. <br/>
