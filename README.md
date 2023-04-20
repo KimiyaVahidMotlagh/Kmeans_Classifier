@@ -5,7 +5,7 @@ Each cluster has a centroid. The algorithm updates each centroid based on its co
 ## Table of content
 - [Dataset Explanation](https://github.com/KimiyaVahidMotlagh/Kmeans_Classifier/blob/main/README.md#dataset-explanation) <br/>
 - [Main Functions](https://github.com/KimiyaVahidMotlagh/Kmeans_Classifier/blob/main/README.md#main-functions) <br/>
-- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#hyperparameter-tuning-k) <br/>
+- [Hyperparameter Tuning (K)](https://github.com/KimiyaVahidMotlagh/Kmeans_Classifier/blob/main/README.md#hyperparameter-tuning-k) <br/>
 - [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/README.md#train--evaluation) <br/>
 
 ## Dataset Explanation
