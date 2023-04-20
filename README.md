@@ -49,5 +49,5 @@ The final clustering is like the picture bellow:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/ElbowDarkmode.jpg">
- <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Elbow.jpg">
+ <img alt="Shows a light background in light color mode and dark background in dark color mode." src= "https://github.com/KimiyaVahidMotlagh/Kmeans_Classifier/blob/main/Pictures/ClusteredData.jpg">
 </picture> <br/>
