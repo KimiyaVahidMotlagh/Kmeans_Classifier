@@ -9,7 +9,7 @@ Each cluster has a centroid. The algorithm updates each centroid based on its co
 - [Train & Evaluation](https://github.com/KimiyaVahidMotlagh/Kmeans_Classifier/blob/main/README.md#train--evaluation) <br/>
 
 ## Dataset Explanation
-We used a dataset with 500 points and their Two-dimensional coordinates. The dataset is unsupervised, so we don't have any labels to train the Kmeans model. Because of that, we have centroids which we set the number of them and Kmeans algorithm classifies based on them. <br\> In the diagram below you can see the distribution:
+We used a dataset with 500 points and their Two-dimensional coordinates. The dataset is unsupervised, so we don't have any labels to train the Kmeans model. Because of that, we have centroids which we set the number of them and Kmeans algorithm classifies based on them. <br/> In the diagram below you can see the distribution:
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/DataDarkmode.jpg">
