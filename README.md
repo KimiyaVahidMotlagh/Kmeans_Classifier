@@ -1,4 +1,4 @@
-# Handwritten_Kmeans
+# Kmeans Classifier
 Kmeans is an unsupervised algorithm used for data clustering. This algorithm classifies data based on the average distance in a class.
 Each cluster has a centroid. The algorithm updates each centroid based on its corresponding classified data's average coordinates. The loop continues until we don't see that much of a shift in the centroids' position. This project shows how the Kmeans algorithm works.  <br/>
 
