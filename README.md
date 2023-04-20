@@ -44,4 +44,10 @@ ur dataframe is simple, so we only checked up to 10 centroids.
 The diagram shows that 7 was a good choice.
 
 ## Train & Evaluation
-The only thing left is executing the Kmeans function with seven centroids. We don't have a way to evaluate our code with accuracy however we can evaluate the classification with our sight. Due to the randomized centroid initialization, you can re-run the code until you are satisfied with the clustering. 
+The only thing left is executing the Kmeans function with seven centroids. We don't have a way to evaluate our code with accuracy however we can evaluate the classification with our sight. Due to the randomized centroid initialization, you can re-run the code until you are satisfied with the clustering.
+The final clustering is like the picture bellow:
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/ElbowDarkmode.jpg">
+ <img alt="Shows a light background in light color mode and dark background in dark color mode." src="https://github.com/KimiyaVahidMotlagh/Handwritten_Kmeans/blob/main/Pictures/Elbow.jpg">
+</picture> <br/>
