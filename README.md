@@ -26,10 +26,8 @@ Centroids are imaginary points that indicate the clusters. The first time we cou
 - **update_centroids()** : with the set points for each centroid, we can update the coordinates of where the centroid is more likely to be. <br/>
 - **centroids_analysis()** : checks how much each centroid changed its position based on history. <br/>
 - **clusters_check()** : will edit the distance of each data and centroid and return the average distance. <br/>
-- **plot_cluster()** <br/>
-This plotter function shows the centroids and their cluster. Centroids are red and the classes are in different colors.
-- **k_means_clustering()** <br/>
-This function uses the previously mentioned functions and is the main function. You can set K as the number of centroids. you need a centroid history and the dataframe as input. After the clustering is done, the function will output the centroids coordinates and the classified dataframe.
+- **plot_cluster()** : This plotter function shows the centroids and their cluster. Centroids are red and the classes are in different colors.
+- **k_means_clustering()** : This function uses the previously mentioned functions and is the main function. You can set K as the number of centroids. you need a centroid history and the dataframe as input. After the clustering is done, the function will output the centroids coordinates and the classified dataframe.
 
 
 ## Hyperparameter Tuning (K)
